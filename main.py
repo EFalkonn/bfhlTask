@@ -77,7 +77,7 @@ async def process_data(input_data: InputData):
         response = ResponseData(
             is_success=True,
             user_id="afzal_ahamed_shaheena_20112003",  # Replace with your name and DOB
-            email="afzalshaheenayahoo@gmail.com",         # Replace with your email
+            email="afzal.ahamed2022@vitstudent.ac.in",         # Replace with your email
             roll_number="22BAI1266",        # Replace with your roll number
             odd_numbers=odd_numbers,
             even_numbers=even_numbers,
